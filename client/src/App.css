@@ -1,0 +1,16 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    border: black dotted 3px;
+    border-radius: 19px;
+    padding: 15px;
+}
